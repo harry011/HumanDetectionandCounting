@@ -3,6 +3,8 @@
 ![outputv2](https://user-images.githubusercontent.com/61905305/126166611-2f953146-92d9-48cd-bf33-361535df36c0.jpeg)
 
 ![outputi](https://user-images.githubusercontent.com/61905305/126166615-531dd2df-9b16-4e66-bae5-3357b9c1d9a0.jpeg)
+# OUTPUT FROM WEBCAM
+![SharedScreenshotwebcam](https://user-images.githubusercontent.com/68680923/126170759-f223c311-6134-42ab-b3c8-ff380f201f30.jpg)
 
 # OUTPUT FOR VIDEOS GIVEN
 
